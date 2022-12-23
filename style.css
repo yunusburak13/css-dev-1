@@ -1,0 +1,32 @@
+
+        body{
+            text-align: center;
+        }
+
+
+
+        h1{
+           
+            color: red;
+        }
+       
+       .orta{
+            list-style-type: none;
+            display: inline-block;
+            margin: 5px;
+        }
+           
+        h3{
+            color: blueviolet;
+        }
+        strong{
+            color: yellowgreen;
+        }
+        
+        section ul li{
+            list-style-position: inside;
+        }
+        div img{
+            width: 200px;
+            height: 300px;
+        }
